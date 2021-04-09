@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.exe.config
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.exe
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.pdb
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.exe
+C:\Users\pedro\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.pdb
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.csprojAssemblyReference.cache
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.csproj.CoreCompileInputs.cache
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.exe
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\obj\Debug\Calculadora.Consoleapp.pdb
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.exe.config
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.exe
+G:\My Drive\NDD\source\repos\Calculadora\Calculadora.Consoleapp\bin\Debug\Calculadora.Consoleapp.pdb
